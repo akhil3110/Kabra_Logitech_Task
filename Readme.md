@@ -1,7 +1,10 @@
 # Kabra Logitech Technical Task
 
-## Setup the Project
-# First Clone the project 
+
+
+# Setup the Project
+
+## First Clone the project 
 ```bash
  git clone
 ```
